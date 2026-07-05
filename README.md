@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="docs/assets/cover.svg" alt="AdminX Woo Toolkit cover" width="100%">
+</p>
+
+<p align="center">
   <img src="docs/assets/logo.svg" alt="AdminX Woo Toolkit logo" width="96" height="96">
 </p>
 
