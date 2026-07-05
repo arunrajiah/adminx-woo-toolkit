@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="AdminX Woo Toolkit logo">
+  <defs><linearGradient id="g" x1="12" y1="12" x2="84" y2="84" gradientUnits="userSpaceOnUse"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#F97316"/></linearGradient></defs>
+  <rect width="96" height="96" rx="22" fill="url(#g)"/>
+  <path d="M27 32h7l5 28h28l5-18H39" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="43" cy="70" r="5" fill="#fff"/><circle cx="64" cy="70" r="5" fill="#fff"/>
+</svg>
